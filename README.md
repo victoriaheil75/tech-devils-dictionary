@@ -8,10 +8,10 @@ Inspired by Ambrose Bierce’s 'The Devil’s Dictionary', and informed by years
 
 A growing collection of terms like:
 
-Alignment → A state in which no one disagrees aloud
-Feature → Well-dressed bug
-Printer → A device that senses fear
-SneakerNet → The most reliable network when all others fail
+- Alignment → A state in which no one disagrees aloud
+- Feature → Well-dressed bug
+- Printer → A device that senses fear
+- SneakerNet → The most reliable network when all others fail
 
 If you've worked in tech, you probably already speak both languages. This is the translation guide.
 
