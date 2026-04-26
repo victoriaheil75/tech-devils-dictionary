@@ -4,6 +4,8 @@ A humorous translation guide to tech and corporate language
 Inspired by Ambrose Bierce’s 'The Devil’s Dictionary', and informed by years of working in engineering and later teaching real humans how technology actually behaves.
 
 ## What is this?
+</> Markdown
+
 A growing collection of terms like:
 
 Alignment → A state in which no one disagrees aloud
